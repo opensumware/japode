@@ -3,17 +3,18 @@
         "twig/twig": "*",
         "fortawesome/font-awesome": "*",
         "silex/silex": "*",
-	"symfony/framework-standard-edition" : "*",
+        "symfony/symfony": "2.8.52",
+        "symfony/framework-standard-edition": "*",
         "symfony/twig-bridge": "*",
-	"symfony/security": "*",
-	"symfony/yaml": "*",
+        "symfony/security": "*",
+        "symfony/yaml": "*",
         "bshaffer/oauth2-server-php": "v1.0",
         "bshaffer/oauth2-server-httpfoundation-bridge": "v1.0",
         "guzzle/guzzle": "*",
-	"doctrine/dbal": "*",
+        "doctrine/dbal": "*",
         "doctrine/orm": "*",
- 	"doctrine/doctrine-fixtures-bundle": "*",
- 	"swiftmailer/swiftmailer": "*"
+        "doctrine/doctrine-fixtures-bundle": "*",
+        "swiftmailer/swiftmailer": "*"
     },
     "autoload": {
         "psr-0": {
