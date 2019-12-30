@@ -3,7 +3,7 @@
         "twig/twig": "*",
         "fortawesome/font-awesome": "*",
         "silex/silex": "*",
-        "symfony/symfony": "2.8.52",
+        "symfony/symfony": "3.*",
         "symfony/framework-standard-edition": "*",
         "symfony/twig-bridge": "*",
         "symfony/security": "*",
